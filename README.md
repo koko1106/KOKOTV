@@ -1,12 +1,5 @@
-# KOKOTV
-All CHANNELS
-#EXTM3U
-#EXTINF:-1,US: H2
-http://163.172.62.63:8000/live/fazeel/fazeel/3991.ts
-#EXTINF:-1,US: DIY Network
-http://163.172.62.63:8000/live/fazeel/fazeel/3990.ts
-#EXTINF:-1,US: TLC HD
-http://163.172.62.63:8000/live/fazeel/fazeel/3984.ts
+
+172.62.63:8000/live/fazeel/fazeel/3984.ts
 #EXTINF:-1,US: NFL Channel HD
 http://163.172.62.63:8000/live/fazeel/fazeel/3524.ts
 #EXTINF:-1,US: FXX
